@@ -2,7 +2,7 @@
 title: DentistSmile | Dental Jekyll Theme
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "/lab" # the subpath of your site, e.g. /blog
-url: "apoenavision" # the name of your domain
+url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
