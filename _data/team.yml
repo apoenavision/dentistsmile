@@ -1,34 +1,9 @@
-- name: Britta Perry
+- name: Filipe Rolim Cordeiro
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: filipe.cordeiro@ufrpe.br
+  site:
 
-- name: Troy Barnes 
+- name: Valmir Macario
   image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Jeff Winger
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  email: valmir.macario@ufrpe.br
+  site: 
