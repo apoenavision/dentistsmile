@@ -1,6 +1,6 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Apoena Vision Lab
+description: Lab of Computer Vision Specialists.
 baseurl: "/lab" # the subpath of your site, e.g. /blog
 url: "https://apoenavision.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Apoena Vision Lav
+    hero_description: Lab of Computer Vision Specialists.
 
 # Contact form
 api_token: # Enter API token here
@@ -18,34 +18,22 @@ api_token: # Enter API token here
 contact:
     phone: 932 50 540
     emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
-
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
-
-# Testimonials
-testimonials:
-    testimonials_img: parallax.jpg
+    email: apoenavision@gmail.com
+    address: Manoel de Medeiros, s/n. <br> Dois Irmãos, Recife - Brazil <br> Zip-code: 52171-900
 
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Manoel de Medeiros, s/n, Dois Irmãos, Recife - Brazil 
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2019 Apoena Vision - All rights reserved
 
 # Build settings
 markdown: kramdown
