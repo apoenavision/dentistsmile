@@ -24,7 +24,7 @@ contact:
 # Map
 map:
     zoom: 17
-    address: Manoel de Medeiros, s/n, Dois Irmaos, Recife - Brazil 
+    address: "R. Manuel de Medeiros, s/n.<br> Dois Irmãos, Recife - PE, Brazil<br> Zip-code: 52171-900"
     address_details: svg/min/logo.svg
 
 # Social settings
