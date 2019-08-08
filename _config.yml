@@ -3,7 +3,7 @@ title: Apoena Vision Lab
 description: "Lab of Computer Vision Specialists."
 baseurl: "/lab" # the subpath of your site, e.g. /blog
 url: "https://apoenavision.github.io" # the name of your domain
-logo_url: svg/min/logo.jpg
+logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
