@@ -1,6 +1,6 @@
 # Site settings
 title: Apoena Vision Lab
-description: Lab of Computer Vision Specialists.
+description: "Lab of Computer Vision Specialists."
 baseurl: "/lab" # the subpath of your site, e.g. /blog
 url: "https://apoenavision.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: Apoena Vision Lav
-    hero_description: Lab of Computer Vision Specialists.
+    hero_title: Apoena Vision Lab
+    hero_description: "Lab of Computer Vision Specialists."
 
 # Contact form
 api_token: # Enter API token here
