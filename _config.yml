@@ -7,7 +7,7 @@ logo_url: svg/min/logo.jpg
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: img/hero.jpg
     hero_title: Apoena Vision Lab
     hero_description: "Lab of Computer Vision Specialists."
 
